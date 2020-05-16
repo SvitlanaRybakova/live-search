@@ -1,0 +1,21 @@
+.wrapper{
+    max-width: 60%;
+    margin: 20px auto;
+
+}
+#elastic{
+    display: block;
+    margin: 40px 0;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.wordsCollection li{
+    transition: all ease 500ms;
+}
+
+.wordsCollection li.hide{
+    display:none;
+}
